@@ -11,7 +11,7 @@ Implementation of a Neural Network from scratch in Python for the Machine Learni
 
 - [Irene Pisani](https://github.com/irenepisani) - M.Sc.  in Artificial Intelligence, University of Pisa
 
-- [Alice Bergonzini] - M.Sc. Digital Humanities, University of Pisa
+- [Alice Bergonzini](https://github.com/alicebergonzini) - M.Sc. Digital Humanities, University of Pisa
 
 
 ## Description
